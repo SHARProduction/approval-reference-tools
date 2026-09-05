@@ -1,0 +1,11 @@
+{
+  "references": [
+    {
+      "id": "ref-01",
+      "intent": "lighting",
+      "source": "https://example.com/reference",
+      "scope": "mood only",
+      "rightsStatus": "link-only"
+    }
+  ]
+}

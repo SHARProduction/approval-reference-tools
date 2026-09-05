@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "approval-reference-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w02-23",
+      "slug": "approval-matrix-builder",
+      "title": "Approval Matrix Builder",
+      "title_ru": "Конструктор матрицы согласования",
+      "family": "briefing",
+      "purpose": "Builds accountable approval stages and detects owner or deadline gaps.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w02-24",
+      "slug": "reference-manifest-validator",
+      "title": "Reference Manifest Validator",
+      "title_ru": "Валидатор манифеста референсов",
+      "family": "briefing",
+      "purpose": "Checks reference items for intent, scope, source and rights-readiness metadata.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

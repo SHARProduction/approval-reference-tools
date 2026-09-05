@@ -1,0 +1,14 @@
+{
+  "stages": [
+    {
+      "name": "Script",
+      "owner": "Brand lead",
+      "deadline": "2026-10-01"
+    },
+    {
+      "name": "Master",
+      "owner": "Marketing director",
+      "deadline": "2026-10-10"
+    }
+  ]
+}

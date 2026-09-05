@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Approval Matrix Builder and Reference Manifest Validator"
+authors:
+  - name: "SHAR Production"
+url: "https://sharprod.com/"
+license: MIT
+version: 1.0.0
